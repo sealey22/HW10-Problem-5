@@ -31,4 +31,4 @@ void arr(int (*val) [1][2]){
   return;
   }
 
-//b. Given the declaration for val in the arr() function, is the notation val[1][2] valid in the function?
+//b. Given the declaration for val in the arr() function, is the notation val[1][2] valid in the function? No because there are 2 rows and 3 columns in the orginal array. 
